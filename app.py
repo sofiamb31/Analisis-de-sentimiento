@@ -18,7 +18,8 @@ with st.sidebar:
                  """
                ) 
 
-
+with open
+    (Animation-1741877919174.json)
 with st.expander('Analizar Polaridad y Subjetividad en un texto'):
     text1 = st.text_area('Escribe por favor: ')
     if text1:
