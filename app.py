@@ -20,7 +20,7 @@ with st.sidebar:
                  """
                ) 
 
-with open ('Animation-1741877919174.json') as source:
+with open ('animationim.json') as source:
   animation=json.load(source)
 st.lottie(animation,width=350)
 with st.expander('Analizar Polaridad y Subjetividad en un texto'):
